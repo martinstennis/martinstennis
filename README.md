@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @martinstennis
-- 👀 I’m interested in becoming a software engineer.
-- 🌱 I’m currently learning HTML and CSS.
-- 💞️ I’m looking to collaborate on any projects where I can get valuable learning experience. 
-- 📫 How to reach me: martin.stennis@yahoo.com or linkedin.com/in/martin-stennis/
+<h1 text-align:center>👋 Hi, I’m @martinstennis</h1>
+<p>Here is a little bit about myself.</p>
+<ul>
+  <li>👀 I’m interested in learning coding, software engineering, and software development.</li>
+  <li>🌱 I’m currently learning HTML and CSS.</li>
+  <li>💞️ I’m looking to collaborate on any projects where I can get valuable learning experience.</li>
+  <li>📫 How to reach me: martin.stennis@yahoo.com or <a href="https://linkedin.com/in/martin-stennis/"></li>
+</ul>
 
 <!---
 martinstennis/martinstennis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
