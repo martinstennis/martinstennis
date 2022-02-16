@@ -4,7 +4,7 @@
   <li>👀 I’m interested in learning coding, software engineering, and software development.</li>
   <li>🌱 I’m currently learning HTML and CSS.</li>
   <li>💞️ I’m looking to collaborate on any projects where I can get valuable learning experience.</li>
-  <li>📫 How to reach me: martin.stennis@yahoo.com or <a href="https://linkedin.com/in/martin-stennis/"></li>
+  <li>📫 How to reach me: martin.stennis@yahoo.com or <a href="https://linkedin.com/in/martin-stennis/">LinkedIn</a>.</li>
 </ul>
 
 <!---
