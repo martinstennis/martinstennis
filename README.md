@@ -3,7 +3,7 @@
 <ul>
   <li>I’m interested in learning coding!</li>
   <li>I’m currently learning HTML and CSS.</li>
-  <li>I’m looking to collaborate on any projects where I can get valuable learning experience.</li>
+  <li>I’m looking to collaborate on any projects where I can gain valuable learning experience.</li>
   <li>How to reach me: martin.stennis@yahoo.com or <a href="https://linkedin.com/in/martin-stennis/" target="_blank">LinkedIn</a>.</li>
 </ul>
 
