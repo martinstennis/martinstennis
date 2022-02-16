@@ -1,4 +1,4 @@
-<h1 text-align:center>�Well hello there! I’m @martinstennis</h1>
+<h1 text-align:center>Well hello there! I’m @martinstennis</h1>
 <p>Here is a little bit about myself.</p>
 <ul>
   <li>I’m interested in learning coding, software engineering, and software development.</li>
